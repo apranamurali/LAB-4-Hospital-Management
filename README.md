@@ -28,7 +28,7 @@ This application provides a way to record this information and to access these i
 
 
 ## PACKAGE DIAGRAM :
-![Uploading 324157352-e72f9864-38a1-4ca3-b71a-378093ea0142.png…]()
+![324157352-e72f9864-38a1-4ca3-b71a-378093ea0142](https://github.com/apranamurali/LAB-4-Hospital-Management/assets/152377149/dfa35962-585a-4650-8412-749c95572919)
 
 ### RESULT:
 Thus the Hospital management System project was executed and the output was verified.
